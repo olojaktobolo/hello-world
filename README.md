@@ -1,2 +1,3 @@
 # hello-world
-first repository - includes a README file for a description
+This is my first repository
+I am looking forward to learning more. 
